@@ -1,5 +1,5 @@
 """
-Python code to find out the square root of the user inut
+Python code to find out the square root of the user input
 """
 # To take the input from the user
 num = input('Enter a number: ')

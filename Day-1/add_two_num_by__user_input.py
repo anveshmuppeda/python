@@ -1,3 +1,6 @@
+"""
+    Python Program to find the sum of the two numbers from user input
+"""
 # Store input numbers
 number1 = input('Enter first number: ')
 number2 = input('Enter second number: ')

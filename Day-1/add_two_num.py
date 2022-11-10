@@ -1,4 +1,7 @@
 # This program adds two numbers
+"""
+    Python Program to find the addition of two numbers
+"""
 number1 = 4
 number2 = 5
 
