@@ -18,7 +18,6 @@ print("Hello Future Python programmer!")
 **\n Stand for new line**  
 
 
-
-  -[keyword](#keyword)
+## keyword  
   1. end = ""   
   2. sep = ""   
