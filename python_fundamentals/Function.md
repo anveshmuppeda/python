@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Function
  
 A part of your card that used to cause an effect or evaluate a value   
@@ -7,7 +6,6 @@ A part of your card that used to cause an effect or evaluate a value
 python
 print("Hello Future Python programmer!")  
 ```
-=======
 #### Function Executions  
 1. Check Function name   
 2. Check arguments passed   
