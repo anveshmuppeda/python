@@ -1,4 +1,4 @@
-# Functions
+- [Function](#Function)
 A part of your card that used to cause an effect or evaluate a value  
 **print is a function**
 ```` 
