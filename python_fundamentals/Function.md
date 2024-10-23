@@ -18,8 +18,10 @@ print("Hello Future Python programmer!")
 
   1. end = ""   
   ```console
-  print('Hello',end="!")
+  $ print('Hello',end="!")
+Hello!
   ```
+
   2. sep = ""   
 ```console  
 print('Hello','Python',sep='!')
