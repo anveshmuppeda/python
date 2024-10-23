@@ -1,11 +1,11 @@
-- [Function](#Function)   
+# Function
  
 A part of your card that used to cause an effect or evaluate a value   
 **print is a function**
-```` 
+```
+python
 print("Hello Future Python programmer!")  
-
-````
+```
 #### Function Executions  
 1. Check Function name   
 2. Check arguments passed   
@@ -16,8 +16,6 @@ print("Hello Future Python programmer!")
     
 **\n Stand for new line**  
 
-
-
-  -[keyword](#keyword)
+  - [keywords](#keywords)
   1. end = ""   
   2. sep = ""   
