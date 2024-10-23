@@ -20,4 +20,10 @@ print("Hello Future Python programmer!")
 ## keyword  
 
   1. end = ""   
+  ```console
+  print('Hello',end="!")
+  ```
   2. sep = ""   
+```console  
+print('Hello','Python',sep='!')
+```
