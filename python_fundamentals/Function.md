@@ -1,11 +1,12 @@
-- [Function](#Function)   
+# Function 
  
 A part of your card that used to cause an effect or evaluate a value   
-**print is a function**
-```` 
-print("Hello Future Python programmer!")  
+**print is a function**  
 
+````console
+print("Hello Future Python programmer!")  
 ````
+
 #### Function Executions  
 1. Check Function name   
 2. Check arguments passed   
