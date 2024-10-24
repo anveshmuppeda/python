@@ -1,13 +1,11 @@
 
 # Function
- 
-A part of your card that used to cause an effect or evaluate a value   
+It is used to evaluate a value in a python programming 
 **print is a function**
 ```python
 print("Hello Future Python programmer!")  
 ```
-=======
-#### Function Executions  
+#### How python functions Executions
 1. Check Function name   
 2. Check arguments passed   
 3. Jump into the functions  
@@ -17,7 +15,6 @@ print("Hello Future Python programmer!")
     
 **\n Stand for new line**  
 ## keyword  
-
   1. end = ""   
   ```console
   $ print('Hello',end="!")
