@@ -5,8 +5,9 @@
  Examples
  ``` 12,2,3,232,-10,1112,21```
  1. - Octal numbers 
-examples
-0o123
+
+examples  
+```
 <table>
 <tr>
 <td>
@@ -17,3 +18,4 @@ examples
 |64|16|3|
 |total=83|
 </td></tr></table>
+```
