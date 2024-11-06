@@ -1,4 +1,5 @@
 # Student Grade
+### Create a system that calculates and stores student grades. It asks for student names and scores, calculates their grades, and stores them in a list
 ```python
 class Student:
     def __init__(self, name, score):
@@ -19,7 +20,6 @@ class Student:
 class GradeBook:
     def __init__(self):
         self.students = []
-
     def add_student(self):
         name = input("Enter student name: ")
         score = float(input("Enter student score (0-100): "))
@@ -32,7 +32,6 @@ class GradeBook:
         self.students.append(student)
 
         print(f"Student {name} added with grade {student.grade}.")
-
     def display_grades(self):
         if not self.students:
             print("No students in the list ")
@@ -47,7 +46,7 @@ def main():
     while True:
         print("\nStudent memu:")
         print("1. Add Student")
-        print("2. Display Grades")
+        print("2. Display Student")
         print("3. Quit")
         choice = input("Enter your choice: ")
         if choice == '1':
@@ -63,3 +62,21 @@ def main():
 if __name__ == "__main__":
     main()
 ```
+# Example(output)
+Student memu:
+1. Add Student
+2. Display Student
+3. Quit
+Enter your choice: 1
+Enter student name: ajay
+Enter student score (0-100): 85
+Student ajay added with grade B.
+
+Student memu:
+1. Add Student
+2. Display Student
+3. Quit
+Enter your choice: 2
+
+Grade Book:
+ajay: 85.0 (B)

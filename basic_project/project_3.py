@@ -1,4 +1,5 @@
 # Integer Errors   
+### Create a program that asks the user for an integer input and handles invalid inputs.
 ```python
 try :
     x=int(input("Enter a number: "))
@@ -13,3 +14,6 @@ except:
 
     print("all done!")
 ```
+# Example(output)
+Enter a number: muppeda
+Please enter an integer.
