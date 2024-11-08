@@ -1,19 +1,15 @@
-# Integer Errors   
-### Create a program that asks the user for an integer input and handles invalid inputs.
-```python
-try :
-    x=int(input("Enter a number: "))
-    y=1/x
-    print(y)
-except ValueError:
-    print("Please enter an integer.")
-except ZeroDivisionError:
-    print("You cannot divide by zero. ")
-except:
-    print("Something went wrong")
 
-    print("all done!")
-```
-# Example(output)
-Enter a number: muppeda
-Please enter an integer.
+def get_integer_input(prompt):
+    while True:
+        try:
+            return int(input(prompt))
+        except ValueError:
+            print("Invalid input. Please enter a valid integer.")
+
+def main():
+    prompt = "Enter an integer: "
+    user_input = get_integer_input(prompt)
+    print(f"You entered: {user_input}")
+
+if __name__ == "__main__":
+    main()
