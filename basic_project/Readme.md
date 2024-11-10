@@ -37,7 +37,7 @@ Write a program that converts a decimal number to binary using bitwise operation
 
 This is used to convert a decimal number to a binary number      
 By entering the decimal number and running the program it will give an output of the binary number.   
-
+Solution: [Task 5 Solution](./task_5/Readme.md) 
 
 ## 6.Student Grade
 Create a system that calculates and stores student grades. It asks for student names and scores, calculates their grades, and stores them in a list.   
@@ -50,3 +50,4 @@ In this we will add student  and in that first it ask to enter student name and 
 It will display the student name , student score and grade. It will display what you have add in the first option .   
 3) Quit   
 It will exit from the program and tell thank you .   
+Solution: [Task 6 Solution](./task_6/Readme.md) 
