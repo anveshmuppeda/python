@@ -11,7 +11,7 @@ It will display the student name , student score and grade. It will display what
 It will exit from the program and tell thank you .  
 
 ### Student Grade Source code   
-1. Create a file name student-grade.py with below content
+1. Create a file name [student-grade.py](./student-grade.py) with below content
 ```py
 # Student Grade
 ### Create a system that calculates and stores student grades. It asks for student names and scores, calculates their grades, and stores them in a list
@@ -82,41 +82,5 @@ if __name__ == "__main__":
    python student-grade.py 
    ```
    
-# Example(output)
-Student memu:
-1. Add Student
-2. Display Student
-3. Quit
-Enter your choice: 1
-Enter student name: ajay
-Enter student score (0-100): 85
-Student ajay added with grade B.
-
-Student memu:
-1. Add Student
-2. Display Student
-3. Quit
-Enter your choice: 2
-
-Grade Book:
-ajay: 85.0 (B)
-```
-
-# Example(output)
-Student memu:
-1. Add Student
-2. Display Student
-3. Quit
-Enter your choice: 1
-Enter student name: ajay
-Enter student score (0-100): 85
-Student ajay added with grade B.
-
-Student memu:
-1. Add Student
-2. Display Student
-3. Quit
-Enter your choice: 2
-
-Grade Book:
-ajay: 85.0 (B)
+# Example(output)  
+![Task 6 Output](./../../images/basic-task_6_results.png)
