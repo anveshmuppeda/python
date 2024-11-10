@@ -6,5 +6,3 @@
   
 # Example(output)  
 ![Task 1 Output](./../../images/basic-task_1_results.png)  
-
-[Task 1 Output](./../../images/basic-task_1_results.png)  
