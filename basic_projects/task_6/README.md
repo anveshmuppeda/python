@@ -13,9 +13,6 @@ It will exit from the program and tell thank you .
 ### Student Grade Source code   
 1. Create a file name [student-grade.py](./student-grade.py) with below content
 ```py
-# Student Grade
-### Create a system that calculates and stores student grades. It asks for student names and scores, calculates their grades, and stores them in a list
-```python
 class Student:
     def __init__(self, name, score):
         self.name = name
