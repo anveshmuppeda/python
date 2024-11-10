@@ -5,9 +5,4 @@
 
 
  ### Example and output
-
-**Enter a paragraph of text:** There was a time and a place for Stephanie to use her magic. The problem was that she had a difficult time determining this. She wished she could simply use it when the desire hit and there wouldn't be any unforeseen consequences. Unfortunately, that's not how it worked and the consequences could be devastating if she accidentally used her magic at the wrong time.
-**Enter a word to search for:** and
-**Word count:** 64
-**Sentence count:** 4
-**'and' occurrences:** 3
+![Task 4 Output](./../../images/basic-task_4_results.png)

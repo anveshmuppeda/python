@@ -9,7 +9,5 @@ if we enter an vaild value for it it will show you have entered an integer **("e
   
   
 # Example(output)
-Enter an integer: ash   
-Invalid input. Please enter a valid integer.   
-Enter an integer: 1222   
-You entered: 1222   
+![Task 3 Output](./../../images/basic-task_3_results.png)
+

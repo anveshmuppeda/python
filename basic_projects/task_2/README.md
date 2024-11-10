@@ -10,13 +10,4 @@
   
   
   # Example(output)
-Enter your guess number(between 0 to 50): 23
-your guess number is lower 
-Enter your guess number(between 0 to 50): 24
-your guess number is lower 
-Enter your guess number(between 0 to 50): 45
-your guess number is higher 
-Enter your guess number(between 0 to 50): 34
-your guess number is lower 
-Enter your guess number(between 0 to 50): 39
-Sorry you have enter a wrong guess and the number is 38
+![Task 2 Output](./../../images/basic-task_2_results.png)
