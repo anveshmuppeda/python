@@ -1,6 +1,4 @@
-# Student Grade
-### Create a system that calculates and stores student grades. It asks for student names and scores, calculates their grades, and stores them in a list
-```python
+
 class Student:
     def __init__(self, name, score):
         self.name = name
@@ -61,22 +59,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-```
-# Example(output)
-Student memu:
-1. Add Student
-2. Display Student
-3. Quit
-Enter your choice: 1
-Enter student name: ajay
-Enter student score (0-100): 85
-Student ajay added with grade B.
 
-Student memu:
-1. Add Student
-2. Display Student
-3. Quit
-Enter your choice: 2
-
-Grade Book:
-ajay: 85.0 (B)

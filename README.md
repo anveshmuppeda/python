@@ -1,7 +1,3 @@
-Certainly! Here’s the README text in plain format:
-
----
-
 # Python Basics & Simple Solutions
 
 Welcome to the **Python Basics & Simple Solutions** repository! 🎉 This repo is designed as a beginner-friendly guide to Python programming, with straightforward explanations, code snippets, and solutions to common tasks and challenges. If you’re new to Python or programming in general, this is a great place to start.
